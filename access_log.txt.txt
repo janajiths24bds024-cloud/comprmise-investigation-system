@@ -1,0 +1,7 @@
+Hello world This is DIFR 
+port :443
+sourceip:192.168.25.0.1
+dest ip:1423.5365.258.1
+source mac addrs:bf-42-kj-k8
+destination mac:kh-09-ki-09-k8
+bits :0001 11010 001001
